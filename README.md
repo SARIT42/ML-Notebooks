@@ -1,5 +1,5 @@
 # My-ML-Notebooks
 
 
- ML Algorithms practice.
+Various ML Algorithms practice.
 
