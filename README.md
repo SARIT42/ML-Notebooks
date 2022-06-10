@@ -1,5 +1,5 @@
 # Practice-ML-Notebooks
 
 
-Various ML Algorithms practice.
+Various ML Algorithms for practice.
 
