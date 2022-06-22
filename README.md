@@ -1,5 +1,5 @@
 # ML-Algoritms-Practice-Notebooks
 
 
-Various ML Algorithms implementation and practice notebooks.
+Various ML Algorithms implementation, projects and practice notebooks.
 
