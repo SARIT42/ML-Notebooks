@@ -1,5 +1,4 @@
 # ML-Algoritms-Practice-Notebooks
 
 
-Various ML Algorithms implementation, projects and practice notebooks.
-
+Repo containing various ML Algorithms implementation, projects and practice notebooks.
